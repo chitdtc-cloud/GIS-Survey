@@ -1,0 +1,6 @@
+{
+  "name": "GIS Telecom Survey",
+  "description": "GIS Web Application for Surveying and Mapping Villages without Mobile Signals and Internet Coverage in Laos (ລະບົບ GIS ສຳຫລວດບ້ານບໍ່ມີສັນຍານມືຖື ແລະ ອິນເຕີເນັດ)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
